@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Raid Anis</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=43&pause=1000&color=50C7F7&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Raid+Anis++KERKATOU" 
+         alt="Typing SVG" />
+  </a>
+</p>
+
+<h1 align="center"> </h1>
 <h3 align="center">A passionate PhD student in AI from Algeria</h3>
+
+
 
 
 - 🔭 I’m currently working on **developing AI solutions for critical problems**
