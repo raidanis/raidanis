@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/raid-anis-kerkatou-568600193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raid anis kerkatou" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/raid-anis-kerkatou-568600193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raid anis kerkatou" height="30" width="40" /></a>
 <a href="https://kaggle.com/hiiiiiiiiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hiiiiiiiiiii" height="30" width="40" /></a>
 <a href="https://medium.com/@aaaasoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aaaasoon" height="30" width="40" /></a>
 </p>
